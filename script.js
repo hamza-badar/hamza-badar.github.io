@@ -11,7 +11,7 @@ let minsLabel = document.getElementById('minute-label');
 let secsLabel = document.getElementById('second-label');
 
 // Last date of the countdown.
-const lastDate = new Date('01/03/2024');
+const lastDate = new Date('01/09/2024');
 
 // Constant Values Setup
 const second = 1000;
